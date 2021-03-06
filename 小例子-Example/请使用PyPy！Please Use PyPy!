@@ -1,0 +1,78 @@
+# Hazelnuts "栗子" #
+
+`Versions`: *v211.9.7.5*
+
+`Programs`: 9 个
+
+`FixedBug`: 7 个
+
+`Simplify`: 5 次
+
+## 简介 ##
+
+一些实用的小小“栗子”，种类繁多。"板栗"、"油栗"、"香栗"、"木栗" ··· ··· 只有`做`不到，没有`想`不到。
+
+> 此程序非彼程序，劝大家快用上罢。
+>
+> ----鲁迅
+
+怎样？戳[这里](https://github.com/super-took/Hazelnuts/releases) ，下载 “栗子” 吧
+
+## 使用教程 ##
+
+2. 打开PowerShell
+
+2. 移动工作目录
+
+   ```powershell
+   PS C:\...> F:(保存本程序的盘符)
+   PS F:> cd <本程序根目录>
+   ```
+
+3. 激活虚拟环境
+
+   ```powershell
+   PS F:\...\Hazelnuts> ./venv/Scripts/Activate
+   ```
+
+4. 运行
+
+   ```powershell
+   (venv) PS F:\...\Hazelnuts> pypy3 <程序名+后缀>
+   ```
+
+(无需下载PyPy)
+
+## 程序列表 ##
+
+（一切输入都按程序中 "`>?`" 前的提示输入，带"*"的程序为无输入）
+
+Nuts 1 ---- 求质数 
+
+Nuts 2 ---- 求完美数
+
+Nuts 3 ---- 求自幂数
+
+Nuts 4 ---- 求亲和数
+
+Nuts 5 ---- 分解因数
+
+Nuts 6 ---- 分解质因数
+
+Nuts 7 ---- 成倍增加
+
+Nuts 8 ---- 序列排序（算法）
+
+Nuts 9 ---- 斐波那契数列
+
+## 备注（一定把每条都做到！） ##
+
+1. 为保证速度，请使用 ***PyPy*** 运行!
+
+2. ***PyPy*** 不用下载，
+
+   因为程序文件夹里已有对应的pypy3以及包。
+
+3. **Fork** me on GitHub. ( / ▽ ＼ )
+
+4. **Star** me on GitHub. (￣y▽,￣)╭ 

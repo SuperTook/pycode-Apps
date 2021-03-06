@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+
+</head>
+<body>
+    <div id="e7a8876212244528b81dc6213daca328" class="chart-container" style="width:900px; height:600px;"></div>
+    <script>
+        var chart_e7a8876212244528b81dc6213daca328 = echarts.init(
+            document.getElementById('e7a8876212244528b81dc6213daca328'), 'light', {renderer: 'canvas'});
+        var option_e7a8876212244528b81dc6213daca328 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "series": [
+        {
+            "type": "funnel",
+            "name": "TIOBE\u7f16\u7a0b\u8bed\u8a00\u6307\u6570",
+            "data": [
+                {
+                    "name": "Python",
+                    "value": 11.28
+                },
+                {
+                    "name": "C",
+                    "value": 16.95
+                },
+                {
+                    "name": "Java",
+                    "value": 12.56
+                },
+                {
+                    "name": "JavaScript",
+                    "value": 2.14
+                },
+                {
+                    "name": "C++",
+                    "value": 6.94
+                },
+                {
+                    "name": "C#",
+                    "value": 4.16
+                },
+                {
+                    "name": "Visual Basic",
+                    "value": 3.97
+                },
+                {
+                    "name": "SQL",
+                    "value": 1.57
+                },
+                {
+                    "name": "PHP",
+                    "value": 2.09
+                },
+                {
+                    "name": "R",
+                    "value": 1.99
+                }
+            ],
+            "sort": "descending",
+            "gap": 0,
+            "label": {
+                "show": true,
+                "position": "top",
+                "margin": 8
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "C++",
+                "C",
+                "Visual Basic",
+                "R",
+                "JavaScript",
+                "Python",
+                "C#",
+                "Java",
+                "PHP",
+                "SQL"
+            ],
+            "selected": {
+                "Python": true,
+                "C": true,
+                "Java": true,
+                "JavaScript": true,
+                "C++": true,
+                "C#": true,
+                "Visual Basic": true,
+                "SQL": true,
+                "PHP": true,
+                "R": true
+            }
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    }
+};
+        chart_e7a8876212244528b81dc6213daca328.setOption(option_e7a8876212244528b81dc6213daca328);
+    </script>
+</body>
+</html>

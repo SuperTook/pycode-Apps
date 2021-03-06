@@ -1,0 +1,11 @@
+README.md
+setup.py
+conffey/Console.py
+conffey/Document.py
+conffey/Picture.py
+conffey/__init__.py
+conffey.egg-info/PKG-INFO
+conffey.egg-info/SOURCES.txt
+conffey.egg-info/dependency_links.txt
+conffey.egg-info/requires.txt
+conffey.egg-info/top_level.txt

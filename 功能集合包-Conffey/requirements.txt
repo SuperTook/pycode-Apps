@@ -1,0 +1,7 @@
+xpinyin>=0.5.6
+Pillow>=7.0.0
+PyPDF2>=1.26.0
+opencv-python>=4.2.0.32
+MyQR>=2.3.1
+pyzbar>=0.1.8
+pydub>=0.24.1

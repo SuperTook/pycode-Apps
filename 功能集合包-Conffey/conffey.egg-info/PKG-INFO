@@ -1,0 +1,41 @@
+Metadata-Version: 2.1
+Name: conffey
+Version: 5.0.0
+Summary: A library that encapsulates various functions of Python.
+Home-page: https://github.com/super-took/conffey
+Author: C.Z.F.
+Author-email: 3023639843@qq.com
+Maintainer: C.Z.F.
+Maintainer-email: 3023639843@qq.com
+License: BSD License
+Description: ﻿# Conffey #
+        
+        ###### Function:
+        
+        A library that encapsulates various functions of Python.
+        
+        ###### Version:
+        
+        *v5.0.0*
+        
+        ###### Download:
+        
+        Open `Cmd` (or `Bash`),
+        
+        Enter *`pip install conffey`* .
+        
+        **Fork** and **Star** [me](https://github.com/super-took/Conffey) on Github !
+Platform: all
+Classifier: Development Status :: 4 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Software Development :: Libraries
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
